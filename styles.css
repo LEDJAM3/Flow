@@ -20,3 +20,8 @@ li{
     cursor: pointer;
     transition: 0.3s;
 }
+
+li:hover{
+    color: #ff6347;
+    transform: scale(1.1);
+}
