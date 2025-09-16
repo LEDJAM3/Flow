@@ -25,3 +25,10 @@ li:hover{
     color: #ff6347;
     transform: scale(1.1);
 }
+
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
